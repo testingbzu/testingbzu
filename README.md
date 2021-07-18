@@ -1,6 +1,6 @@
 
 # Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=testingbzu) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=testingbzu) \n
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=testingbzu)
 
 # Visitors:
